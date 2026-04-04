@@ -1,0 +1,19 @@
+.venv/*
+.env
+
+# ========== UV 包管理器 ==========
+.uv/
+uv.lock
+
+# ========== 编辑器文件 ==========
+.vscode/
+
+# Jupyter 临时缓存（只忽略文件夹，不忽略你的笔记！）
+.ipynb_checkpoints/
+
+# Python 缓存
+__pycache__/
+
+# 日志
+logs/
+*.log
