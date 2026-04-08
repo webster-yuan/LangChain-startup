@@ -1,2 +1,2 @@
-LLM: 阿里百炼平台（qwen3.5-plus）
+LLM: Ollama (qwen2.5:3b-instruct-q4_K_M)
 LangChain
